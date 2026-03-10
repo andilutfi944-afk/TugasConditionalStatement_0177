@@ -4,3 +4,10 @@
 using namespace std;
 
 // Prosedur untuk masukan data (menggunakan pass-by-reference agar nilai tersimpan)
+void masukanData(double &berat, double &tinggi) {
+    cout << "--- Selamat Datang Mahasiswa Kelas A 2025 ---" << endl;
+    cout << "Masukkan berat badan (kg): ";
+    cin >> berat;
+    cout << "Masukkan tinggi badan (meter): ";
+    cin >> tinggi;
+}
