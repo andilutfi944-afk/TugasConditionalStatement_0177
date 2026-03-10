@@ -11,3 +11,5 @@ void masukanData(double &berat, double &tinggi) {
     cout << "Masukkan tinggi badan (meter): ";
     cin >> tinggi;
 }
+
+// Fungsi untuk menghitung BMI
