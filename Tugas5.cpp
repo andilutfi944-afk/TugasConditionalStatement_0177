@@ -18,3 +18,6 @@ double hitungBMI(double berat, double tinggi) {
 }
 
 // Fungsi untuk melihat kondisi berat badan
+string cekKondisi(double bmi){
+    
+}
